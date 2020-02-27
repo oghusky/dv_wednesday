@@ -1,0 +1,35 @@
+body{
+  background-color: #fafafa;
+}
+html{
+  scroll-behavior: smooth;
+}
+section.content-section{
+  background-color: #212121;
+  color: #fafafa;
+  padding: 1rem;
+  margin: 20px;
+}
+.content-section h3{
+  text-align: center;
+}
+.img-fluid{
+  width: 140px;
+  height: auto;
+  float: left;
+}
+#about{
+  background-color: #3F729B;
+}
+/* #about-text p{
+  float:left;
+} */
+#services{
+  background-color: #0099CC;
+}
+.services-inside-div h3{
+  text-transform: uppercase;
+}
+@media screen and (max-width: 768px){
+  
+}
